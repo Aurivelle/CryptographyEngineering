@@ -1,6 +1,6 @@
 # NTU Cryptography Engineering Final Project (2025 Fall) — ML-KEM & ECDH25519 on Cortex-M4
 
-This repository contains my final project for **Cryptography Engineering** lectured by Matthias J. Kannwischer
+This repository contains my final project for **Cryptography Engineering** lectured by Matthias J. Kannwischer\
 It focuses on performance optimization of
 
 - **ECDH25519**
@@ -9,7 +9,7 @@ It focuses on performance optimization of
 **Target Platform:** ARM **Cortex-M4**\
 **Goals:** Reduce cycle counts under **constant-time** constraints and a **strict NTT code-size budget**.
 
-**Baseline reference (Course Repo):** [ce2025]((https://github.com/mkannwischer/ce2025))
+**Baseline reference (Course Repo):** [ce2025](https://github.com/mkannwischer/ce2025)
 
 ---
 
